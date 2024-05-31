@@ -1,0 +1,8 @@
+langchain
+langchain_community
+youtube-transcript-api
+pytube
+langchain-chroma
+sentence_transformers
+faiss-cpu
+streamlit
